@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: red;
+    
+}
+p{
+    padding: 5%;
+    font-family: verdana;
+}
+img{
+    border-radius: 75%;
+    width: 10%;
+    height: 50%;
+    align-content: center;
+}
+
+h4{
+    font-family: Verdana;
+}
+ol{
+    font-family: Verdana;
+}
+form{
+    font-family: Verdana;
+}
+h5{
+    font-family: Verdana;
+}
